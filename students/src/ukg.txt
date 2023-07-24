@@ -2,3 +2,4 @@ this class room is for ukg students
 A section 
 B section
 C section
+D,E,F section

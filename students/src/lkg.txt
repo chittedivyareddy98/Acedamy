@@ -2,3 +2,6 @@ this class is for lkg students
 A section
 B section
 C section
+D section
+E section
+F section 
